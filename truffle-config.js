@@ -29,7 +29,7 @@ const HDWalletProvider = require("@truffle/hdwallet-provider");
 //   .trim();
 
 const mnemonic =
-  "theory critic repeat fork token mango shine snap type donor long space";
+  "";
 
 module.exports = {
   /**
